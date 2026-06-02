@@ -122,16 +122,6 @@ http://127.0.0.1:5000
 
 ---
 
-## 🔮 Future Improvements
-
-* 🎯 Deep learning-based anti-spoofing
-* ☁️ Cloud database integration (Firebase / AWS)
-* 📱 Mobile app dashboard
-* 📧 Email/SMS attendance alerts
-* 🧑‍🤝‍🧑 Multi-camera support
-
----
-
 ## 📜 License
 
 MIT License
