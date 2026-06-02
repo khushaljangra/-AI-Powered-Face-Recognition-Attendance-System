@@ -6,8 +6,8 @@
 ```
 BEFORE (Broken):
   - khsuahl registers
-  - john enters → Camera shows "khsuahl" (WRONG!)
-  - sara enters → Camera shows "khsuahl" (WRONG!)
+  - john enters → Camera shows "khushal" (WRONG!)
+  - sara enters → Camera shows "khushal" (WRONG!)
 
 AFTER (Fixed):
   - khsuahl registers
@@ -30,7 +30,7 @@ python main.py
 ```
 
 ### 3. Register People
-- **First Person**: Face camera → Press 'r' → Enter name "khsuahl"
+- **First Person**: Face camera → Press 'r' → Enter name "khushall"
 - **Second Person**: Face camera → Press 'r' → Enter name "john"
 - **Third Person**: Face camera → Press 'r' → Enter name "sara"
 
