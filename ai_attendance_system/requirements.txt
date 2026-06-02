@@ -1,0 +1,6 @@
+opencv-python
+flask
+pandas
+openpyxl
+numpy
+pillow
