@@ -1,0 +1,7 @@
+face-recognition
+opencv-python
+numpy
+pandas
+flask
+openpyxl
+dlib
